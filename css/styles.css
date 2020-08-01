@@ -265,7 +265,7 @@ body {
     padding-top: 0;
   }
 
-  .row img{
+  #singular.row img{
     height: 175px;
   }
 
@@ -305,7 +305,7 @@ body {
     padding-top: 0;
   }
 
-  .row img{
+  #singular.row img{
     height: 195.547px;
   }
 
@@ -336,7 +336,7 @@ body {
     margin-left: 10%;
   }
 
-  .row img{
+  #singular.row img{
     height: 230px;
   }
 
